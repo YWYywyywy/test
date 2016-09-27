@@ -1,0 +1,15 @@
+{
+    "author":"ywy",
+    "name":"mytool_util",
+    "version":"0.1.1",
+    "description":"我们创建的工具",
+    "main":"mytool",
+    "repository":{
+    	"type":"git",
+    	"url":"https://github.com/YWYywyywy/mytest/test",
+    },
+    "keywords":["tool","ywy","util"],
+    "dependencies":{},
+    "engines":{"node":"*"}
+
+}
